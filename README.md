@@ -1,5 +1,5 @@
-# Music
-音乐获取等操作/Music acquisition and other operations
+# getMusic
+音乐获取/Music acquisition
 JDK版本:openjdk-24
 注意：若用中文无法正常搜索(网易云反爬机制)可以尝试以下方法：
 1.搭梯子
